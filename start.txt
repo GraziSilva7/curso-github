@@ -1,0 +1,1 @@
+Testando o inicio rápido do git, via terminal git bash
